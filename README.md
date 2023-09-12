@@ -67,4 +67,6 @@ To run the Chrome Volume Fix program automatically, you can utilize the Windows 
 
 11. Paste this path into the **Add arguments (optional):** field (you may need to surround the path in quotes).
 
+12. Press **Ok** and then press **Ok** to complete creating the task.
+
 The task is now scheduled to run on the specified triggers.
