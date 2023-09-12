@@ -19,7 +19,7 @@ This program addresses an issue with the volume on Google Chrome by adjusting th
    ```
 5. Run the program by executing:
    ```
-   python chrome_volume_fix.py
+   python main.py
    ```
 
 ## Code Explanation
